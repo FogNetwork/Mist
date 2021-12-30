@@ -57,5 +57,10 @@ if (req.url.startsWith("/watch")) {
 
 Your all setup! Access Mist by going to `/watch`
 
+### Pages
+`/watch?=videoid&audio=false` Main video page
+
+`/video?=videoid&audio=false` Just the video
+
 ### Usage
 If you wish to use Mist commercially (on your service) you mist include credit to mist somewhere on your service
