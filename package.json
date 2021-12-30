@@ -1,0 +1,19 @@
+{
+    "name": "Mist",
+    "version": "1.0.0",
+    "repository": "https://github.com/FogNetwork/Mist",
+    "bugs": {
+        "url": "https://github.com/FogNetwork/Mist/issues"
+    },
+    "description": "A simple youtube downloader included in Tsunami",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Fog Network",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.2",
+        "ytdl-core": "^4.9.2"
+    }
+}
