@@ -63,4 +63,4 @@ Your all setup! Access Mist by going to `/watch`
 `/video?=videoid&audio=false` Just the video
 
 ### Usage
-If you wish to use Mist commercially (on your service) you mist include credit to mist somewhere on your service
+If you wish to use Mist commercially (on your service) you must include credit to Mist somewhere on your service
