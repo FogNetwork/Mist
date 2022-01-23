@@ -3,19 +3,6 @@ A simple youtube downloader included in Tsunami
 
 ### Setup
 
-### Locally
-
-```sh
-git clone https://github.com/FogNetwork/Mist
-
-cd Mist
-
-npm install
-
-npm start
-```
-
-### On Your Website
 To install Mist on your site you need to be using nodejs and express
 
 1: Upload the mist folder to your website
@@ -55,7 +42,7 @@ if (req.url.startsWith("/watch")) {
 })
 ```
 
-Full Result
+Full Result (see /demo)
 ```js
 const express = require('express');
 const app = express();
